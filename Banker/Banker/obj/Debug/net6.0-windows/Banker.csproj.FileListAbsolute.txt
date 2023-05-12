@@ -1,0 +1,17 @@
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.Form1.resources
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.AssemblyInfo.cs
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Banker\Banker\bin\Debug\net6.0-windows\Banker.exe
+C:\Users\DELL\Documents\Banker\Banker\bin\Debug\net6.0-windows\Banker.deps.json
+C:\Users\DELL\Documents\Banker\Banker\bin\Debug\net6.0-windows\Banker.runtimeconfig.json
+C:\Users\DELL\Documents\Banker\Banker\bin\Debug\net6.0-windows\Banker.dll
+C:\Users\DELL\Documents\Banker\Banker\bin\Debug\net6.0-windows\Banker.pdb
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.dll
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\refint\Banker.dll
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.pdb
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\Banker.genruntimeconfig.cache
+C:\Users\DELL\Documents\Banker\Banker\obj\Debug\net6.0-windows\ref\Banker.dll
